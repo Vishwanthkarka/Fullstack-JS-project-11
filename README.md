@@ -17,7 +17,7 @@
 ## Time taken to finish this project
 
 -   4.5 hour taken to complete it.
-![Desktop](./Hosting Landing Page.png)
+![Desktop](./Screenshot.png)
 
 
 
